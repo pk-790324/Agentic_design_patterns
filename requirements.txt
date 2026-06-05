@@ -3,5 +3,5 @@ langchain-community
 langgraph
 ollama
 langchain-ollama
-google-adk
 langchain-huggingface
+wikipedia
