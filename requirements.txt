@@ -5,3 +5,5 @@ ollama
 langchain-ollama
 langchain-huggingface
 wikipedia
+wikipedia-api
+ddgs
