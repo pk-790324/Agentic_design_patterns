@@ -17,4 +17,4 @@ gradio
 pypdf
 qdrant-client 
 langchain-qdrant
-pywin32
+jinja2
