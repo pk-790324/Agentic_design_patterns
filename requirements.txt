@@ -18,3 +18,4 @@ pypdf
 qdrant-client 
 langchain-qdrant
 jinja2
+fastmcp
