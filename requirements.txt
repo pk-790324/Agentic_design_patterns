@@ -20,3 +20,4 @@ langchain-qdrant
 jinja2
 fastmcp
 langchain_mcp_adapters
+langmem
