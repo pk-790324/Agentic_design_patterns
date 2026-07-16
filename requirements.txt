@@ -24,3 +24,10 @@ langmem
 mem0ai
 mem0ai[nlp]
 mem0ai[extras]
+llama-index
+llama-index-retrievers-bm25
+sentence-transformers
+rank-bm25
+PyStemmer
+llama-index-embeddings-ollama
+llama-index-llms-ollama
